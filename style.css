@@ -13,3 +13,16 @@ img {
  div.bg2{
     background-color:rgb(255, 255, 142) ;
  }
+
+ h2.style{
+  color: rgb(92, 92, 2);
+ }
+ 
+ .divs{
+  background-color: rgb(167, 167, 109);
+  color: rgb(27, 27, 4);
+ }
+ .div1{
+  display: inline;
+ }
+ 
